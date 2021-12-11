@@ -1,6 +1,6 @@
 # Cocrafts
 An experimental framework for economic sustainable co-creation.  
-Community of amateurs with same interest contribute their expertise/talent to create and enjoy their product together.
+Community of amateurs with same interest contribute their expertise/talent to create and enjoy the product together.
 
 This white paper describes the framework by building a real project names Metacraft.
 
@@ -8,7 +8,7 @@ This white paper describes the framework by building a real project names Metacr
 A fictional universal including several games, novel and other child projects.
 
 # Contents
-- Cocraft
+- Cocrafts
 - Metacraft universal (fictional world)
 - Metacraft mineral (cryptocurrency)
 - Metacraft guardian (public company)
