@@ -12,8 +12,7 @@ In the real world, this rarely happen - Metacraft should be made by Gammers who 
 - [Co-creation](#co-creation)
 
 # Tokenized economic 
-Even though the community gathered for fun and mainly to create project we love.
-Without a sustainable economic engine, this could not go far.
+Even though the community gathered for fun and mainly to create project we love - without a sustainable economic engine, this could not go far.
 
 The project backed by cryptocurrency - this case named Metacraft Mineral (MEMI), any contributor receive MEMI as reward for their contribution,   
 
