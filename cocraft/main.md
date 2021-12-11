@@ -15,8 +15,7 @@ In the real world, this rarely happen - Metacraft should be made by Gammers who 
 Even though the community gathered for fun and mainly to create project we love.
 Without a sustainable economic engine, this could not go far.
 
-The project backed by cryptocurrency - this case named Metacraft Mineral (MEMI), `500,000,000` ownership pieces of the entire project.  
-Any contributor receive MEMI as reward for their contribution,   
+The project backed by cryptocurrency - this case named Metacraft Mineral (MEMI), any contributor receive MEMI as reward for their contribution,   
 
 # Public company
 Cryptocurrency may carry the financial part at early stage.   
