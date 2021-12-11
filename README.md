@@ -1,6 +1,6 @@
 # Cocrafts
 An experimental framework for economic sustainable co-creation.  
-Community of amateurs with same interest contribute their expertise/talent to create and enjoy their product together.
+Community of amateurs with same interest contribute their expertise/talent to create and enjoy the product together.
 
 This white paper describes the framework by building a real project names Metacraft.
 
