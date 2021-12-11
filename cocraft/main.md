@@ -19,9 +19,9 @@ The project backed by cryptocurrency - this case named Metacraft Mineral (MEMI),
 
 # Public company
 Cryptocurrency may carry the financial part at early stage.   
-But alone, it wouldn't enough - community will also launch a public company operate by top Contributor and Game players from the community (who love and understand Metacraft the most)
+But alone, it wouldn't enough - community will also launch a public company represent by top Contributor and Game players from the community - the Counsel (who love and understand Metacraft the most)
 
-This company main focus is to make profit from the ecosystem that the community own - employee, including CEO work for the community (represented by top Contributor and Players).  
+This company main focus is to make profit from the ecosystem that the community own - employee, including CEO work under monitoring of the Counsel.
 
 Every five year, the top Contributor and Players re-vote new leader for the Public company.
 
