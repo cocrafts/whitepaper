@@ -8,7 +8,7 @@ This white paper describes the framework by building a real project names Metacr
 A fictional universal including several games, novel and other child projects.
 
 # Contents
-- Cocraft
+- [Cocrafts](/cocraft/main.md)
 - Metacraft universal (fictional world)
 - Metacraft mineral (cryptocurrency)
 - Metacraft guardian (public company)
