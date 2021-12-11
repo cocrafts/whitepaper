@@ -6,10 +6,10 @@ I have a strong belief that Game should be made by Gamer, not Programmer.
 In the real world, this rarely happen - Metacraft should be made by Gammers who maybe amateur Programmer, Artist or Writer who interesting in write the fictional story for this world.
 
 # Essential pillars
-- [Tokenized economic](#-tokenized-economic)
-- [Public company](#-public-company)
-- [Core team](#-core-team)
-- [Co-creation](#-co-creation)
+- [Tokenized economic](#tokenized-economic)
+- [Public company](#public-company)
+- [Core team](#core-team)
+- [Co-creation](#co-creation)
 
 # Tokenized economic 
 Even though the community gathered for fun and mainly to create project we love.
