@@ -1,1 +1,13 @@
 ### Metacraft Studio
+
+Game should be made by game lovers, we’re all game players at heart and we would love to invite anyone with the same interest join us with this rebellion as Contributors — you could be anyone, Student, Writer, Artist, Designer, Engineer or just housewife with free time.
+
+Great game backed by great lore, Metacraft Studio and community together, create a world called `ATEM`. Many games will take place under this universe — we’ll create it bit by bit, the lore and also the game.
+
+Metacraft use [Metacraft framework](https://github.com/cocrafts/whitepaper/blob/master/metacraft/framework.md) to create a digital universe called `ATEM`, people will need to understand it to get started.. but in general we’ve created a [collaboration tool](https://stormgate.io/build) where everything got discuss and built. Collaboration tool essentially just a forum or reddit, where people create thread, discuss, find the good idea and then execute it together. While someone have idea to contribute, other may know how to do it, the other one maybe just Player who love to watch and contribute their idea via comment/discussion — we encourage them all by reward `MEMI` token selectively for valuable activity/contribution.
+
+This reward system, built on top of the Blockchain technology to keep thing transparent and fair as much as we could. It is a complex technology to be built with a simple goal, transparent, honest, have fun together but still guarantee certain level of reward/earning for the creator — so, then they could really focus on building with love, which.. we believe, will produce great stuffs. Contributors in Metacraft have the freedom to choose the job they would like to, and they can even branch out into other fields that are unrelated to their major. We have engineers who want to write and they’re together building the bare minimal lore for `ATEM` universe right now.
+
+Not only builder, Metacraft needs player too — they’re the energy source of the community, we create this entire `ATEM` universe for them and we, Contributors, ourself are game Players too. Top/skilled Players should be rewarded with the revenue from Metacraft activities, we’ll have eSport championship and prizes.
+
+Furthermore, on top of Blockchain technology Metacraft empower in-game item ownership by deploying them under `NFT` form. While `NFT` is a trend, we fully aware pro-and-cons of doing so, number one priority of Metacraft is to build fair and transparent way for Players to own and trade game items they need — but not financial investment or pay-to-win. The Games, must be fun first.
