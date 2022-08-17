@@ -1,13 +1,17 @@
 ### Metacraft Studio
 
-Game should be made by game lovers, we’re all game players at heart and we would love to invite anyone with the same interest join us with this rebellion as Contributors — you could be anyone, Student, Writer, Artist, Designer, Engineer or just housewife with free time.
+Long story short, Metacraft is a Decentralized Game Studio.
 
-Great game backed by great lore, Metacraft Studio and community together, create a world called `ATEM`. Many games will take place under this universe — we’ll create it bit by bit, the lore and also the game.
+Back in 2003, it would be lunatic if someone told Eul, a keen Warcraft 3 modder, that his game mod named Defense of the Ancients, later widely known as DOTA, will become a phenomenon and give birth to a whole new genre of video games: MOBA. Shorts for Multiplayer Online Battle Arena, MOBA games are known as a major genre in eSports, with millions of fans worldwide and a market value of 43 billion USD by the end of 2021. It all started with just a game lover added what he likes to a game, shared it,  and the rest was history.
 
-Metacraft use [Metacraft framework](https://github.com/cocrafts/whitepaper/blob/master/metacraft/framework.md) to create a digital universe called `ATEM`, people will need to understand it to get started.. but in general we’ve created a [collaboration tool](https://stormgate.io/build) where everything got discuss and built. Collaboration tool essentially just a forum or reddit, where people create thread, discuss, find the good idea and then execute it together. While someone have idea to contribute, other may know how to do it, the other one maybe just Player who love to watch and contribute their idea via comment/discussion — we encourage them all by reward `MEMI` token selectively for valuable activity/contribution.
+At Metacraft, we believe games should be made by game lovers, for game lovers. And that's what we do!
 
-This reward system, built on top of the Blockchain technology to keep thing transparent and fair as much as we could. It is a complex technology to be built with a simple goal, transparent, honest, have fun together but still guarantee certain level of reward/earning for the creator — so, then they could really focus on building with love, which.. we believe, will produce great stuffs. Contributors in Metacraft have the freedom to choose the job they would like to, and they can even branch out into other fields that are unrelated to their major. We have engineers who want to write and they’re together building the bare minimal lore for `ATEM` universe right now.
+Our vision is to push this idea even further by empowering everyone with the ability to co-craft anything they want and contributors will be appreciated fair and square for their contributions via a decentralized, transparent blockchain-backed system.
 
-Not only builder, Metacraft needs player too — they’re the energy source of the community, we create this entire `ATEM` universe for them and we, Contributors, ourself are game Players too. Top/skilled Players should be rewarded with the revenue from Metacraft activities, we’ll have eSport championship and prizes.
+To bring our vision to life, Metacraft team is developing [Metacraft Framework](https://github.com/cocrafts/whitepaper/blob/master/metacraft/framework.md) and applying this framework to create our game series.
 
-Furthermore, on top of Blockchain technology Metacraft empower in-game item ownership by deploying them under `NFT` form. While `NFT` is a trend, we fully aware pro-and-cons of doing so, number one priority of Metacraft is to build fair and transparent way for Players to own and trade game items they need — but not financial investment or pay-to-win. The Games, must be fun first.
+Metacraft Framework, explained in simple language, is a virtual [collaboration space](https://www.notion.so/Whitepaper-SG-4c33c0dfa00b48a6bca38239baf44707) where everyone can find various methods to contribute what they can toward the development of a project. It could be a line of code, an artwork, a hand sketch, or a piece of copywriting...
+
+We strongly believe by deploying this framework, as project owners, we also unlock the ability of fast scaling and lean operation while still exciting our contributors when they can try any roles they want, and get the benefit for every contribution they've made, even the smallest. And by operating blockchain technology, we're doing the best to our ability to keep things as transparent and fair as much as we could.
+
+With Metacraft Framework, you can be anyone, and create anything!
