@@ -1,15 +1,13 @@
 ### Executive Summary 
 
-“Amateurs together craft a Universe” — Metacraft
+“What does it take to create something with zero skill and knowledge of that field?”
 
-Metacraft at first is a “decentralized” Game Studio, we’re amateurs, come from various backgrounds connected at heart by curiosity, enthusiasm and the burning desire to create “interesting" stuffs.
+Lots of time, by yourself, or, lots of helps, from everyone! 
 
-Believing people who play Game know how it should be built, and on the power of crowdsourcing, like Wikipedia. Metacraft established as a platform to empower us all with the ability to collaborate with anyone, anywhere, anytime, to build a universe called `ATEM` together. Metacraft on it’s side appreciate the contributors fairly and transparently by a token called `Metacraft Mineral`.
+Triggered with that idea, Metacraft, as a Decentrialized Game Studio, is a collective, or “tribe" as how we called ourselves, of individuals come from various backgrounds but connected at heart by curiosity, enthusiasm and the burning desire to create “interesting" stuffs.
 
-We hope this could potentially change the way people create Games, at least this offer another way for amateurs like us have chance to hands-on create Games the way we love.
+To enable our vision, we have our own proposal called [Metacraft Framework](https://github.com/cocrafts/whitepaper/blob/master/metacraft/framework.md). It is a complex process to bring to life a simple goal — Allow anyone , from anywhere, with any background, skill set, to easily join co-crafting the Metacraft Universe. By rewarding contributors with the project's token: [$MEMI](https://explorer.solana.com/address/J7BTo2oJoWhceyKqhNRotHT8YV1T5Zk5jzbBtz5tiD6W), we are also able to appreciated fairly and transparently our contributors community for  their contribution  toward the growth of the project.
 
-The idea sound simple and straight forward, but we know to execute it there will be a lot of challenges (and fun to enjoy). We have our own proposal called [Metacraft Framework](https://github.com/cocrafts/whitepaper/blob/master/metacraft/framework.md) to back behind what we do, the framework itself will keep improving along the way we go — we hope this fire will spread.
+It must be noted that, as with all complex systems under active development, the contents of this guide and the technology they explain are both subject to change. In fact, one of the hallmarks of the Metacarft approach is rapid and pragmatic iteration. The latest update regarding the protocol can be found in our Discord.
 
-It must be noted that, Metacraft is a bleeding-edge experimental framework, still at very early stage and under active development, we’ll try our best to figure out the right direction for Metacraft framework, ATEM world/universal as well. The contents of this paper subject to be change — framework mechanism, development priorities and document will change, base on research, traction, feedback from the community.. still, Metacraft spirit to be amateurs, wild and fun will stay remain.
-
-Welcome to the Metacraft journey, Adventurers!
+Welcome to Metacraft Universe, Adventurers!
