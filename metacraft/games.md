@@ -31,3 +31,61 @@ Under Realm is in heavy development for its launching Alpha in Q4 2022. Alpha Si
 - Game play: Complete for Alpha.
 - Design and art: in-development. Still need a lot of Hero Characters to be drawn, join [here](https://discord.gg/jDqqTu6K) if you’re interested in.
 - Development: in very heavy development.
+
+**GamePlay:**
+
+Adventurers are confronting each other in the search for the long-lost scripts in hidden dungeon across ATEM. 
+
+- **Win/Lose Condition**:
+    - To win the game, player is required:
+    - Reduce the opposing player's Health Points (HP) to zero.
+    - Destroy all Monster cards that oppose enemy owned.
+- **Deck**:
+    - Has Spell cards & Monster cards.
+    - The deck has no duplicate of the same monster card and only have up to 3 the same spell cards in your Deck
+    - Players can prepare multiple desks (maximum is … desks).
+    - Player will select a desk before start a battle.
+    - Player can change cards in desk before battle.
+- **Battlefield**:
+    - Summon zone:
+        - Has center and 2 side, to place monster & troop.
+        - When a card in the center is destroyed, it will move cards on the side that has more cards to the center
+        - When a card not in the center is destroyed, it will move cards on that side to replace it
+    - Draw desk on the right: to draw card to hand.
+    - Grave yard on the left: hold your destroyed monster.(to view battle history)
+- **Card**:
+    - Monster card:
+        - Class: Each monster card will belong to a class, and each class will have different pros and cons.
+        - Attack Point
+        - Heath Point: when heath point reduce to 0, it will be move to grave yard
+        - Defense Point: (some monster will has it by default, but some will get by spell/ card or skill), reduce the damage it takes by %, maximum is 50%
+        - Skill:
+            - Passive: skill has no cooldown to active, It will active if meets the condition
+            - Active: Auto active before battle, after activated it will be cooldown by turn before active it again (countdown by turn)
+    - Troop card:
+        - Player will earn a troop card each turn
+        - Player cant keep troop in hand & has to place it to the battlefield every turn
+        - Attack Point
+        - Heath Point: when heath point reduce to 0, it will be destroyed
+        - Defense Point (by spell or skill from Monster)
+    - Spell card:
+        - Pre battle: It will be activated before the start combat
+        - Post battle: It will be activated after end the combat
+	- Phases in game:
+    - Preparation phase:
+        - Player will chose Desk before start the battle.
+        - Player can see the class opponent choose the most to counter
+    
+    - In-Game phase:
+        - Each player has 60 seconds to setup before battle
+        - At first each player will have 2 slot to place Spell (After every 5 turns, 1 more tower will be added)
+        - Every 3 turns both players draw 5 spell cards select 3 and discard 2
+            - In first turn:
+                - Drop coin to choose who will go first.
+                - Both players draw 3 monsters & 2 spells
+                - Place Monster in Center & a troop to any side
+            - From second turn to further:
+    
+**Under Realm Battle field**
+
+Artwork is in work in progress
