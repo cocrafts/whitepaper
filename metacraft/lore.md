@@ -1,16 +1,7 @@
 ### Lore
 
-Multiple games are going to take place in a fictional world called ATEM, where has been long sunken in wars, conflicts and chaos; the dark realm is going to take over this world. All of the games are connected to each other and will represent a period of ATEM world history. Stormgate is the magical portal to the ATEM fictional world, hence, all of our official channels named Stormgate.
+To enter Metacraft Universe, players will need to walk through the magical portal, Stormgate, to the medieval-themed, fictional world of ATEM. Which has been long sunken in wars, conflicts and chaos. Factions are busy wrenching their thirst for wealth, power. Meanwhile, the greater, darker force is going to take over this world. The future of ATEM is in the hands of the players!
 
-The ATEM world exists with 5 natural elements Light (Only can be used by Angels) and Dark (only can be used by Evils).
+In the first release of our game series, Under Realm: Rise of Magic, steel and brute force were the main material of the savage battles until mysteriously, mankind discovered the long-lost scripts that allow them to summon mighty, ancient creatures/ entities that can turn the tide in no time. And no one wants to be left behind. Adventurers across ATEM are desired by factions to discover the darkest, deepest dungeon all over the continent. 
 
-In this period, humans, along with various races are enslaved by Evils and took the role of creating magical weapons/ tools, using Minerals. On the other hand, Angels tend to be neutral and mind their own business and keep a certain distance with the other races.
-
-There was the fearsome force of the Dragons, which were spell-proof and they are a fearsome force.
-
-- **The Excalibur Prep**: Human race planed on breaking free from the evils by creating the “Ex-Calibur"
-- **War on Evils**: After creating the “Ex-Calibur" the human race wave a war on Evils and won it. Unable to eternally eliminate the Evils, human is only able to sealed the evils into the “script”
-- **The Dark Peace**: After winning the war on Evils, human race actively conceal a peace deal with the Angels
-- **The War on Paradise**: Humans wave war on Angels and seal them into the “script”. Some Angels were able to escape
-- **The Great Purification**: Human starts to hunt down any creatures/ races that can use magic
-- **Pax Homo**: Peace time for all humankind
+All games in Metacraft Universe are linked to each other and represents a period of ATEM’s history. And players/ contributors are more than welcomed to join us co-creating ATEM world!
