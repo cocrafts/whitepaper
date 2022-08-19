@@ -34,6 +34,7 @@
 - Whitepaper
 - Collaboration Platform MVP
 - Under Realm Pre-Alpha
+- Stormgate Mobile Application
 
 **Q4:**
 
