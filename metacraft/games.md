@@ -12,7 +12,11 @@ There are 3 reason behind this decision:
 
 Under Realm, the very first game of Metacraft Studio, is going to be developed mainly by the Core members. Even though operating a “Decentralize game studio”, we’re fully aware of that we need to develop Under Realm by ourselves and get it released firstly before more and more people know about and join together. Luckily, by today writing this White paper in August 2022, we’re thankfully having 20+ Contributors who are contributing their time and effort and sharing their passion to work on Under Realm with us: from Lore development, Character development, Sketching, Digitalize, etc., or just simply came playing hand-cut Under Realm paper version with us and leave helpful feedbacks. They have been with us since very early days and more coming along the way till now, and hopefully in the very near coming days.
 
+![alt text](https://github.com/cocrafts/whitepaper/blob/master/assets/img/card-play.png?raw=true)
+
 #### UNDER REALM
+
+![alt text](https://github.com/cocrafts/whitepaper/blob/master/assets/img/under-realm.png?raw=true)
 
 Under Realm takes place in a chaotic, fragmented world of ATEM where human and other races are constantly fighting each others, to wrench the endless thirst for power, wealth, and gradually take control over ATEM.
 
@@ -52,7 +56,7 @@ Adventurers are confronting each other in the search for the long-lost scripts i
         - When a card in the center is destroyed, it will move cards on the side that has more cards to the center
         - When a card not in the center is destroyed, it will move cards on that side to replace it
     - Draw desk on the right: to draw card to hand.
-    - Grave yard on the left: hold your destroyed monster.(to view battle history)
+    - Graveyard on the left: hold your destroyed monster.(to view battle history)
 - **Card**:
     - Monster card:
         - Class: Each monster card will belong to a class, and each class will have different pros and cons.
@@ -87,5 +91,7 @@ Adventurers are confronting each other in the search for the long-lost scripts i
             - From second turn to further:
     
 **Under Realm Battle field**
+
+![alt text](https://github.com/cocrafts/whitepaper/blob/master/assets/img/battle-field.png?raw=true)
 
 Artwork is in work in progress
