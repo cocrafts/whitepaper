@@ -1,49 +1,56 @@
-### Roadmap 
-#### 2021:
+### Roadmap
+#### Year 2021
+Kickstart Metacraft
 
-**December:** 
+**December:**
 
-- Concept and idea ✔
-- $MEMI listed on Solana ✔
-- Development begins with 2 members ✔
+- [x] Concept and idea
+- [x] Mint `MEMI` on Solana
+- [x] Development begins
 
-#### 2022:
+#### Year 2022
+Work on important features
 
-**Q1:**
-- [Stormgate.io](http://Stormgate.io) ✔
-    - Github contribution history API
-    - Web3 architecture
-    - Wallet connect, account system
-- Metacraft Github ✔
-    - Some public and mostly private repository
-    - Public most of the repos after security audit
-- Private sale #1 ✔
-    - WhitePaper drafting version
-    - Pitch deck (simplify) version
+**Quarter 1:**
 
-**Q2:**
-- ATEM world concept ✔
-- Marketplace MVP ✔
+- [x] Litepaper
+- [x] Pitch deck ver.1
+- [x] Launch official site, [stormgate.io](http://Stormgate.io)
+- [x] Web3 architecture
+- [x] Wallet integration, account system
+- [x] GitHub organization with opensource repos
+- [x] Github contribution history API
+- [x] Public most of the repos after security audit
+- [x] Private sale #1
 
-**Q3:**
-- Website ver.2 ✔
-- Migrate `MEMI` to new address ✔
-- Private sale #2
-- Whitepaper
-- Collaboration Platform MVP
-- Under Realm Pre-Alpha
-- Stormgate Mobile Application
+**Quarter 2:**
 
-**Q4:**
-- Private sale #3
-- Under Realm Alpha
-- Collaboration Platform
-- NFT minting
-- Marketplace launch
-- Liquidity Pool
+- [x] ATEM world concept
+- [x] Marketplace MVP
 
-### 2023:
+**Quarter 3:**
 
-- Under Realm Beta
-- Staking
-- Public sale
+- [x] Stormgate website ver.2
+- [x] Migrate `MEMI` to new address
+- [x] Whitepaper ver.2
+- [x] Pitch deck ver.2
+- [ ] Private sale #2
+- [ ] Collaboration Platform MVP
+- [ ] Under Realm Pre-Alpha
+- [ ] Stormgate Mobile Application
+
+**Quarter 4:**
+
+- [ ] Private sale #3
+- [ ] Under Realm Alpha
+- [ ] Collaboration Platform
+- [ ] NFT minting
+- [ ] Marketplace launch
+- [ ] Liquidity Pool
+
+#### Year 2023
+
+- [ ] Under Realm Beta
+- [ ] Staking
+- [ ] Public sale
+
