@@ -73,8 +73,9 @@ The initial fund of `$131,000` was raised at Private sale `round 1` from more th
 Companies who share similar vision with Metacraft and want to join the journey of building a united GameFi.
 
 **Core team & Advisor**
-- Core team (across all generations): `8%`
-- Advisor: `2%`
+
+Core team (across all generations): `8%`
+Advisor: `2%`
 
 #### Game Tokenomic
 
