@@ -29,7 +29,7 @@ Under Realm Mineral (URM) is the official token with total `100,000,000` fixed s
 **Under Realm development status:**<br>
 Under Realm is in heavy development for its launching Alpha in Q4 2022. Alpha [signup](https://stormgate.io/) is available now.
 
-- Gameplay: Completed
-- Design and art: in-development.
-- Technical development: in very heavy development.
-- NFT Minting event: Q4 2022.
+- **Gameplay**: Completed
+- **Design and art**: in-development.
+- **Technical development**: in very heavy development.
+- **NFT Minting event**: Q4 2022.
