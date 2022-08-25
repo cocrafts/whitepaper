@@ -29,18 +29,19 @@ We experiment with collaboration activities from Day one using Notion and Discor
 There will be an open-source code/algorithm to extract/calculate rewards for creator/builder/player based on their contribution activities and interaction with the community on their stuffs (e.g like, up-vote count). This mechanism won’t be perfect, nothing is — however it is transparent and neutral, the community themself contributes to this algorithm and adjust it together.
 
 **Development Timeline:**
-- Jan 2022: Stormgate project and Metacraft started on Notion
-- Feb 2022:
-    - Github contribution history API connects to stormgate.io
-    - Dashboard format created on [Notion](https://www.notion.so/fe8ab9170c15417fbe25a725c14600e1) with Task + MEMI reward
-- Mar 2022:
-    - Collaboration Platform Idea sketching + 1st Wireframe
-    - [Notion Art/Character for Under Realm](https://www.notion.so/c626dc186bb54f3db98955732e7dc648) opened for everyone to join
-- Apr 2022: Collaboration Platform Wireframe finetuning
-- May-Jul 2022: MVP UX Research and Design
-- Aug 2022: MVP UI Design & Development
-- Sep 2022: MVP launch
-- Q4 2022 and onward: Update Collaboration Update function and continue updating (example: work-mode and chit chat-mode…)
+
+- **Jan 2022**: Stormgate project and Metacraft started on Notion
+- **Feb 2022**:
+  - Github contribution history API connects to stormgate.io
+  - Dashboard format created on [Notion](https://www.notion.so/fe8ab9170c15417fbe25a725c14600e1) with Task + MEMI reward
+- **Mar 2022**:
+  - Collaboration Platform Idea sketching + 1st Wireframe
+  - [Notion Art/Character for Under Realm](https://www.notion.so/c626dc186bb54f3db98955732e7dc648) opened for everyone to join
+- **Apr 2022**: Collaboration Platform Wireframe fine-tuning
+- **May-Jul 2022**: MVP UX Research and Design
+- **Aug 2022**: MVP UI Design & Development
+- **Sep 2022**: MVP launch
+- **Q4 2022 and onward**: Update Collaboration Update function and continue updating (example: work-mode and chit chat-mode…)
 
 #### Builder
 
