@@ -14,6 +14,6 @@ Our vision is to push this idea even further by **empowering everyone with the a
 
 **The focus of Metacraft Studio throughout 3 stages are going to be:**
 
-- **Stage 1**: Focusing on building `ATEM` world lore and its games series using Metacraft Framework.
-- **Stage 2**: Battle-testing the Metacraft Framework by allowing developers to develop their games based on the `ATEM` World, using the framework
-- **Stage 3**: Authorizing the control of Metacraft Framework to the next generation, chosen by the community. Metacraft Framework governance.
+- **Foundation World**: Focusing on building `ATEM` world lore and its games series using Metacraft Framework.
+- **Extended World**: Battle-testing the Metacraft Framework by allowing developers to develop their games based on the `ATEM` World, using the framework
+- **Open World**: Authorizing the control of Metacraft Framework to the next generation, chosen by the community. Metacraft Framework governance.
