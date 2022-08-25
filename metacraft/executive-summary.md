@@ -4,17 +4,13 @@ With the vast amount of GameFi projects released in the last 4 years, GameFi is 
 
 As GameFi has proved the advantages for both Players and Game Developers/ Builders as enabling true digital ownership, decentralization, and expanding the border of a video game beyond just entertainment. But still, at the moment, GameFi is not a "Eureka", yet! There are limitations that we believe by solving, we are getting closer to expanding this sector to a new frontier.
 
-- **Trust**:
-One of the most promising vision GameFi has brought to its players is bringing the absolute transparent, true digital ownership over their digital in-game assets, and different game development team has approach this problem very differently. And we can not deny many project use this as a hook to scam on their player, make it hard to distinguish between a authentic GamFi projects and a scam ones. Gradually this build up the prejudice toward the GameFi as a "pump-and-dump"-, ponzi-, scamming sector.
+- **Trust**: One of the most promising vision GameFi has brought to its players is bringing the absolute transparent, true digital ownership over their digital in-game assets, and different game development team has approach this problem very differently. And we can not deny many project use this as a hook to scam on their player, make it hard to distinguish between a authentic GamFi projects and a scam ones. Gradually this build up the prejudice toward the GameFi as a "pump-and-dump"-, ponzi-, scamming sector.
 
-- **Game Quality**:
-Due to technology limitation and the complexity of combining between game and finance elements, GameFi projects are usually not appreciated by its gameplay, visual, storyline....This matter caused by the finance-centric mindset of the game developers while developing the projects. Another fact is traditional game developers find it's complicated for traditional game developer to adapt their products to fit in the GameFi world when Finance is not a familiar field to them.
+- **Game Quality**: Due to technology limitation and the complexity of combining between game and finance elements, GameFi projects are usually not appreciated by its gameplay, visual, storyline....This matter caused by the finance-centric mindset of the game developers while developing the projects. Another fact is traditional game developers find it's complicated for traditional game developer to adapt their products to fit in the GameFi world when Finance is not a familiar field to them.
   
-- **Fragmented**:
-GameFi is still early and extremely fragmented. Due to the lack of an organization serves as administrating and standardizing the whole sector. This normally take years to develop, required many stakeholders to involve to unify the entire ecosystem.
+- **Fragmented**: GameFi is still early and extremely fragmented. Due to the lack of an organization serves as administrating and standardizing the whole sector. This normally take years to develop, required many stakeholders to involve to unify the entire ecosystem.
 
-- **Controversy**:
-  There are still lots of debates about the necessity of GameFi. Does it actually open a new era of video games or just a flop with scamming projects and does not bring any value to the existed video game sector?
+- **Controversy**: There are still lots of debates about the necessity of GameFi. Does it actually open a new era of video games or just a flop with scamming projects and does not bring any value to the existed video game sector?
 
 Metacraft approach to these problems is not-so-new, in fact, we come from a very simple idea: unifying and standardizing the GameFi sector and gradually erase the border line between Game and GameFi. 
 
