@@ -12,7 +12,7 @@ At Metacraft, we believe games should be made by game lovers, for game lovers. A
 
 Our vision is to push this idea even further by **empowering everyone with the ability to co-craft anything they want** using Metacraft Framework and Contributors will be appreciated fair and square for their contributions via a decentralized, transparent blockchain-backed system.
 
-The focus of Metacraft Studio throughout 3 stages are going to be:
+**The focus of Metacraft Studio throughout 3 stages are going to be:**
 
 - **Stage 1**: Focusing on building `ATEM` world lore and its games series using Metacraft Framework.
 - **Stage 2**: Battle-testing the Metacraft Framework by allowing developers to develop their games based on the `ATEM` World, using the framework
