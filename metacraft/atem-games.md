@@ -17,9 +17,6 @@ Game should be back by a good lore, Metacraft treat this as a critical pillar of
 
 **Together with the progress of Metacraft, `ATEM` Game Series in 3 stage as follows:** 
 
-**Stage 1**: Core team, together with early Builder from community -- build `ATEM` world and its series of games
-
-**Stage 2**: Extended the `ATEM` world with more lore and games by community
-
-**Stage 3**: `ATEM` in this stage just a series of many interesting series in the Metacraft universe 
-
+**Foundation World**: Core team, together with early Builder from community -- build `ATEM` world and its series of games
+**Extented World**: Extended the `ATEM` world with more lore and games by community
+**Open World**: `ATEM` in this stage just a series of many interesting series in the Metacraft universe 
