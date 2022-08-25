@@ -51,7 +51,7 @@ All engineering activity under Metacraft project is opensource, Metacraft engine
 
 **Metacraft currently working, but not limited on following opensource:**
 
-- [Cross-platform UI library](https://github.com/cocrafts/metacraft-ui) written using React Native that could run everywhere, including Browser
+- [Cross platform UI library](https://github.com/cocrafts/metacraft-ui) written using React Native that could run everywhere, including Browser
 - [CLI for rapid development environment](https://github.com/cocrafts/metacraft-cli) (for Application, Api, Smart Contract development with `TypeScript` and `Rust` — in the long run, this is like Remix of Ethereum)
 - Customizable NFT Marketplace compliance with Metacraft convention
 - Smart contract for NFT minting compliance with Metacraft convention
