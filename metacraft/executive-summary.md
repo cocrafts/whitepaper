@@ -1,13 +1,30 @@
 ### Executive Summary 
 
-“What does it take to create something with zero skill and knowledge of that field?”
+With the vast amount of GameFi projects released in the last 4 years, GameFi is undeniably a booming sector.
 
-Lots of time, by yourself, or, lots of helps, from everyone! 
+As GameFi has proved the advantages for both Players and Game Developers/ Builders as enabling true digital ownership, decentralization, and expanding the border of a video game beyond just entertainment. But still, at the moment, GameFi is not a "Eureka", yet! There are limitations that we believe by solving, we are getting closer to expanding this sector to a new frontier.
 
-Triggered with that idea, Metacraft, as a Decentrialized Game Studio, is a collective, or “tribe" as how we called ourselves, of individuals come from various backgrounds but connected at heart by curiosity, enthusiasm and the burning desire to create “interesting" stuffs.
+- **Trust**:<br>
+One of the most promising vision GameFi has brought to its players is bringing the absolute transparent, true digital ownership over their digital in-game assets, and different game development team has approach this problem very differently. And we can not deny many project use this as a hook to scam on their player, make it hard to distinguish between a authentic GamFi projects and a scam ones. Gradually this build up the prejudice toward the GameFi as a "pump-and-dump"-, ponzi-, scamming sector.
 
-To enable our vision, we have our own proposal called [Metacraft Framework](https://github.com/cocrafts/whitepaper/blob/master/metacraft/framework.md). It is a complex process to bring to life a simple goal — Allow anyone , from anywhere, with any background, skill set, to easily join co-crafting ATEM, the world created by Metacraft tribe. By rewarding contributors with the project's token: [$MEMI](https://explorer.solana.com/address/J7BTo2oJoWhceyKqhNRotHT8YV1T5Zk5jzbBtz5tiD6W), we are also able to appreciated fairly and transparently our contributors community for  their contribution  toward the growth of the project.
+- **Game Quality**:<br>
+Due to technology limitation and the complexity of combining between game and finance elements, GameFi projects are usually not appreciated by its gameplay, visual, storyline....This matter caused by the finance-centric mindset of the game developers while developing the projects. Another fact is traditional game developers find it's complicated for traditional game developer to adapt their products to fit in the GameFi world when Finance is not a familiar field to them.
+  
+- **Fragmented**:<br>
+GameFi is still early and extremely fragmented. Due to the lack of an organization serves as administrating and standardizing the whole sector. This normally take years to develop, required many stakeholders to involve to unify the entire ecosystem.
 
-It must be noted that, as with all complex systems under active development, the contents of this guide and the technology they explain are both subject to change. In fact, one of the hallmarks of the Metacarft approach is rapid and pragmatic iteration. The latest update regarding the protocol can be found in our Discord.
+- **Controversy**:<br>
+  There are still lots of debates about the necessity of GameFi. Does it actually open a new era of video games or just a flop with scamming projects and does not bring any value to the existed video game sector?
 
-Welcome to Metacraft, Adventurers!
+Metacraft approach to these problems is not-so-new, in fact, we come from a very simple idea: unifying and standardizing the GameFi sector and gradually erase the border line between Game and GameFi. 
+
+Having a unified platform, Metacraft can deliver additional value to the players by offering properly developed GameFi projects that bring true value to its players. Also, our players do not just simply play our games and have fun. Rather than just a vague statement, by developing and applying the Metacraft Framework, the players can be actively involved in the development and improvement of the games as a builder. This mechanism is not only exciting for the players as we proved our players' ideas matter, and become the true decision-makers.
+
+A unified platform/playground also create the foundation to offer a tool for a mass collaboration inspired by [Wiki engine](https://en.wikipedia.org/wiki/Wiki_software) and Wikipedia story, anyone could join without invitation, create and play games. This makes creating GameFi and games, in general, more joyful like, as Metacraft's slogan — “Amateurs together craft a universe”. Games developed with Metacraft follow certain community’s conventions. This is to ensure a healthy economy for the entire community. Metacraft itself is a democratic entity that nobody owns — fully decentralize in terms of network and operation.
+
+**With a clear vision/roadmap ahead — execution would come in 3 Stages**:
+1. **Foundation world**: The playground should be battle-tested, Metacraft Studio will be the first Creator on Metacraft, focusing on co-crafting a world named `ATEM` backed by a fictional lore. **Stage 1** mainly focuses on building `ATEM` and its game series on top of the lore — this is where Metacraft experiments its Crowd Contribution model, where anyone could join, build game/lore and get a reward by Metacraft token — `MEMI`. The game is expected to be mainly developed and operated by Metacraft core team, as the community requires time to grow.
+
+2. **Extended world**: On top of the `ATEM` lore, anyone who loves this fictional world could submit to Metacraft their idea and get funded by Metacraft to build their own games — based the lore of `ATEM` as well as the common culture of this series. During this period Metacraft supports those new dedicated team and prepare its tool for wider/generic use case.
+
+3. **Open world**: Besides the `ATEM` series, Metacraft at this stage is ready for unlimited possibilities — any project/lore/series could be submitted and funded (or self-funding on top of Metacraft). This is the playground Metacraft aim to become.

@@ -1,5 +1,5 @@
 ### Roadmap 
-### **2021:**
+#### 2021:
 
 **December:** 
 
@@ -7,10 +7,9 @@
 - $MEMI listed on Solana ✔
 - Development begins with 2 members ✔
 
-### **2022:**
+#### 2022:
 
 **Q1:**
-
 - [Stormgate.io](http://Stormgate.io) ✔
     - Github contribution history API
     - Web3 architecture
@@ -23,13 +22,12 @@
     - Pitch deck (simplify) version
 
 **Q2:**
-
 - ATEM world concept ✔
 - Marketplace MVP ✔
 
 **Q3:**
-
 - Website ver.2 ✔
+- Migrate `MEMI` to new address ✔
 - Private sale #2
 - Whitepaper
 - Collaboration Platform MVP
@@ -37,7 +35,6 @@
 - Stormgate Mobile Application
 
 **Q4:**
-
 - Private sale #3
 - Under Realm Alpha
 - Collaboration Platform
@@ -45,7 +42,7 @@
 - Marketplace launch
 - Liquidity Pool
 
-### **2023:**
+### 2023:
 
 - Under Realm Beta
 - Staking
