@@ -18,6 +18,8 @@ Having a unified playground, Metacraft can deliver additional value to the playe
 
 A unified playground also creates the foundation to offer a tool for a mass collaboration inspired by [Wiki engine](https://en.wikipedia.org/wiki/Wiki_software) and Wikipedia story, anyone could join without invitation, create and play games. This makes creating GameFi and games, in general, more joyful like, as Metacraft's slogan — “Amateurs together craft a universe”. Games developed with Metacraft follow certain community’s conventions. This is to ensure a healthy economy for the entire community. Metacraft itself is a democratic entity that nobody owns — fully decentralize in terms of network and operation.
 
+**With a clear vision/roadmap ahead — execution would come in 3 Stages**:
+
 1. **Foundation world**: The playground should be battle-tested, Metacraft Studio will be the first Creator on Metacraft, focusing on co-crafting a world named `ATEM` backed by a fictional lore. **Stage 1** mainly focuses on building `ATEM` and its game series on top of the lore — this is where Metacraft experiments its Crowd Contribution model, where anyone could join, build game/lore and get a reward by Metacraft token — `MEMI`. The game is expected to be mainly developed and operated by Metacraft core team, as the community requires time to grow.
 
 2. **Extended world**: On top of the `ATEM` lore, anyone who loves this fictional world could submit to Metacraft their idea and get funded by Metacraft to build their own games — based the lore of `ATEM` as well as the common culture of this series. During this period Metacraft supports those new dedicated team and prepare its tool for wider/generic use case.
