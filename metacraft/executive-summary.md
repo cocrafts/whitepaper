@@ -8,7 +8,7 @@ As GameFi has proved the advantages for both Players and Game Developers/ Builde
 
 - **Game Quality**: Due to technology limitation and the complexity of combining between game and finance elements, GameFi projects are usually not appreciated by its gameplay, visual, storyline....This matter caused by the over focus on the Finance elements during the products development process. Another fact is traditional game developers find it's complicated to fit their products in the GameFi world when Finance is not a familiar field to them.
   
-- **Fragmented**: GameFi is still early and extremely fragmented. Due to the lack of an organization to standardize and overwatch the whole sector. This normally takes years to develop, and required many stakeholders involved to unify the entire ecosystem.
+- **Fragmented**: GameFi is still early and extremely fragmented. Due to the lack of organizations serve as administrating and standardizing the whole sector. This normally takes years to develop, and required many stakeholders involved to unify the entire ecosystem.
 
 - **Controversy**: There are still lots of debates about the necessity of GameFi. Does it actually open a new era of video games or just a flop with scamming projects and does not bring any value to the existed video game sector?
 
