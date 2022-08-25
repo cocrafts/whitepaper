@@ -8,7 +8,6 @@ Metacraft founding members are currently the 1st core team, are ex-colleagues wh
 We are connected at heart by curiosity, enthusiasm for games, and the burning desire to create interesting stuff while still able to have just enough income for living and working on our favorite job.
 
 **As always, when Metacraft project progress, core team went through 3 stages:**
-- **Stage 1 and 2 — Foundation &** **Extended world:**
-Mainly focuses on building `ATEM` world and actively looks for talent from the community to join Core team.
-- **Stage 3 — Open world:**
-Start the democratic loop, choose the next core team generation to lead the future of Metacraft community.
+
+- **Stage 1 and 2 — Foundation &** **Extended world:** Mainly focuses on building `ATEM` world and actively looks for talent from the community to join Core team.
+- **Stage 3 — Open world:** Start the democratic loop, choose the next core team generation to lead the future of Metacraft community.
