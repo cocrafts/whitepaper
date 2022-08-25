@@ -29,7 +29,7 @@ Mechanism to choose the top builder and player will be machine-centric, thanks t
 **Core team**:
 The guardian of community, came from community — anyone inside community could be part of the core team.
 
-On `Stage 1`, founder of Metacraft project will act as the 1st generation core team, and actively recruit talent from the community. Once the Framework is mature enough to be inherited by the next generation, chosen from the top talent of the Metacraft community — 1st generation will give up the power, and start the democratic loop.
+On `Stage 1`, founder of Metacraft project — [Metacraft Studio](https://stormgate.io/whitepaper/metacraft-studio) will act as the 1st generation core team, and actively recruit talent from the community. Once the Framework is mature enough to be inherited by the next generation, chosen from the top talent of the Metacraft community — 1st generation will give up the power, and start the democratic loop.
 
 
 **Metacraft Foundation:**
