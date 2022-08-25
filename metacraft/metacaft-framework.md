@@ -23,16 +23,16 @@ This is also a lean “social network” where conversations happen, to gather f
 Metacraft came with the promise to be truly owned by the community, no one is able to own it for themselves. Governance mechanism of Metacraft inspired by the democracy system, where the Chieftain voted by its community — in this case, they're top builders and players who spend most of their time to creator/build/contribute to Metacraft in different ways.
 
 
-**Machine centric**:<br>
+**Machine centric**:
 Mechanism to choose top builder and player will be machine centric, thanks to the `Collaboration Platform`. There will be an opensource code/algorithm to extract/calculate “reputation point” for creator/builder/player based on their contribution activities and interaction of the community on their stuffs (e.g. like, up-vote count). This mechanism won’t be perfect, nothing is — however it is transparent and neutral, the community themselves contribute on this algorithm and adjust it together.
 
-**Core team**:<br>
+**Core team**:
 The guardian of community, came from community — anyone inside community could be part of the core team.
 
 On `Stage 1`, founder of Metacraft project will act as the 1st generation core team, and actively recruit talent from the community. Once the Framework mature enough to be inherits by the next generation, chosen from top talent of the Metacraft community — 1st generation will giving up the power, and start the democratic loop.
 
 
-**Metacraft Foundation:**<br>
+**Metacraft Foundation:**
 Metacraft Foundation owned by the community, top Builder and Player will act as the Counsel to choose a core team (and its Chieftain) for the Foundation every 5 years, except in the 1st core team generation, Counsel did not exist yet.
 
 Even though core team and Chieftain operate the Foundation during their prorogue, they do that under monitoring of the Counsel and Community — corrupted core team could be kicked out by raising vote.

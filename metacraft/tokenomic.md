@@ -7,7 +7,7 @@ Metacraft Mineral (`MEMI`) is the central token of the entire ecosystem, nativel
 **`MEMI` is anticipated to hold the following utilities:**
 
 - Selectively use to reward Builder based on their contribution
-- Reward for Esport Championship/Tournament and ATEM Hero
+- Reward for Esport Championship/Tournament and `ATEM` Hero
 - Game developer use `MEMI` to reward their Builders (Artist, Engineer, Writer…)
 - Fees on Collaboration Platform*
 - Marketplace transaction fee across all games*
@@ -20,11 +20,11 @@ Metacraft Mineral (`MEMI`) is the central token of the entire ecosystem, nativel
 
 ![alt text](https://github.com/cocrafts/whitepaper/blob/master/assets/img/token-allocation.png?raw=true "The allocation set forth above is as anticipated, and maybe subject to modification.")
 
-**Builder**<br>
+**Builder**
 The ones who contribute to Metacraft ecosystem to make it better every day based on an opensource Collaboration Platform, where valuable contribution will be rewarded with `MEMI` token from 20% of the total supply. Builders could be anyone and free to join Metacraft.
 
 
-**Player**<br>
+**Player**
 There are `20%` of the total `MEMI` supply reserved for Player. The goal is to reward and honor top Players in Metacraft ecosystem at special events as following:
 
 - Winning Esport tournaments and championship
@@ -36,18 +36,18 @@ This `MEMI` token amount for Player is divided into two parts and distributed ba
 - `ATEM` games: `10%`
 - `Non-ATEM` games: `10%`
 
-**ATEM Hero/Player ONE**<br>
+**ATEM Hero/Player ONE**
 A single player who wins the main game of `ATEM` is rewarded a phenomenal prize of `5% of total supply` to honor his/her skills and effort for `ATEM` games. 
 
 
-**Staking & Liquidity**<br>
-Staking is a way to reward a long-term mindset community member by locking up their MEMI token.
+**Staking & Liquidity**
+Staking is a way to reward a long-term mindset community member by locking up their `MEMI` token.
 
-**Public sale**<br>
-The sale of MEMI to the general public
+**Public sale**
+The sale of `MEMI` to the general public
 
-**Private sale**<br>
-Metacraft eager to onboard non-crypto users to blockchain world. Private sales are all open to the public, to purchase MEMI with ease on [stormgate.io](http://stormgate.io) for anyone who wants to join funding Metacraft and approach this exclusive "early bird" opportunity to purchase `MEMI` at the best price
+**Private sale**
+Metacraft eager to onboard non-crypto users to blockchain world. Private sales are all open to the public, to purchase `MEMI` with ease on [stormgate.io](http://stormgate.io) for anyone who wants to join funding Metacraft and approach this exclusive "early bird" opportunity to purchase `MEMI` at the best price
 
 The initial fund of `$131,000` was raised at Private sale `round 1` from more than `70 individual investors` who are new to crypto space, help kickstart Metacraft officially in `May 2022`.
 
@@ -69,10 +69,10 @@ The initial fund of `$131,000` was raised at Private sale `round 1` from more th
 
 ![alt text](https://github.com/cocrafts/whitepaper/blob/master/assets/img/unlock-schedule.png?raw=true "The allocation set forth above is as anticipated, and maybe subject to modification.")
 
-**Partner**<br>
-Partner are the companies who share similiar vision with Metacraft and want to join the journey of building a united GameFi.
+**Partner**
+Companies who share similar vision with Metacraft and want to join the journey of building a united GameFi.
 
-**Core team & Advisor**<br>
+**Core team & Advisor**
 - Core team (across all generations): `8%`
 - Advisor: `2%`
 

@@ -4,13 +4,13 @@ Metacraft Framework is open-source and built by the crowd community.
 
 We need it transparent, clear, and valuable for everyone in the community - this is the reason we have developed Collaboration Platform for Builder and Player with the plan that is opened step by step:
 
-1. **Foundation world:**<br>
+1. **Foundation world:**
 Crowd Contribution mainly focuses on building `ATEM`  by `Metacraft Studio` leading from the lore to direction of the game.
 
-2. **Extended world:**<br>
+2. **Extended world:**
 Collaboration Platform will be opened for everyone who cares `ATEM` world and want to build new games on it.
 
-3. **Open world:**<br>
+3. **Open world:**
 Outside of `ATEM` series, Metacraft at this stage ready for unlimited possibility — any project/lore/series could be submit and funded (or self-fun on top of Metacraft). We welcome Builder and Player to join and do whatever they want to make strong and stable for Metacraft framework.
 
 #### Collaboration Platform
@@ -25,7 +25,7 @@ Imagine one place where anyone could make something fun, interesting, enjoyable,
 
 We experiment collaboration activities from Day one using Notion and Discord before the day Collaboration Platform is live on [stormgate.io](http://stormgate.io)
 
-**Reward mechanism**<br>
+**Reward mechanism**
 There will be an open-source code/algorithm to extract/calculate reward for creator/builder/player based on their contribution activities and interaction of the community on their stuffs (e.g like, up-vote count). This mechanism won’t be perfect, no thing is — however it is transparent and neutral, the community themself contribute on this algorithm and adjust it together.
 
 **Development Timeline:**
@@ -50,7 +50,7 @@ Builder could be anyone, from any background, or age. They could be Student at a
 
 What Builder contribute at Metacraft is not limit. From the idea for the lore, art, game, etc… as can draw small icon, design some buttons on website, find the issues/bugs on games, write chapter of novel, or help anybody in the community to onboard with Metacraft. All together build and play on `Collaboration Platform`.
 
-**Builder path at Metacraft:**<br>
+**Builder path at Metacraft:**
 Collaboration Platform is suitable for whoever want to make game in blockchain technology, or have ideas but lack resource. They don’t need to worry about hiring people, manage lots of resources anymore, just bring their story and people who are convinced by it will support them.
 
 More game coming, more jobs for builder, more `MEMI` they will receive. We believe it will bring more chances and the better life for our contributors, and will become their motivation for long-term relationship with Metacraft framework.

@@ -92,7 +92,7 @@ Adventurers are confronting each other in the search for the long-lost scripts i
     		- Both sides attack at the same time.
 		- Which card isn't face enemy card will attack directly to the base HP.
 	- After the combat will end that turn and start a new turn both player will draw a monster card and receive a troop card again.
-	- Repeat again & again until one player is down.
+	- Repeat, again & again until one player is down.
     
 **Under Realm Battle field**
 
