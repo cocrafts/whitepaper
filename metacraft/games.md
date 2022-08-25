@@ -53,42 +53,46 @@ Adventurers are confronting each other in the search for the long-lost scripts i
 - **Battlefield**:
     - Summon zone:
         - Has center and 2 side, to place monster & troop.
-        - When a card in the center is destroyed, it will move cards on the side that has more cards to the center
-        - When a card not in the center is destroyed, it will move cards on that side to replace it
+        - When a card in the center is destroyed, it will move cards on the side that has more cards to the center.
+        - When a card not in the center is destroyed, it will move cards on that side to replace it.
     - Draw desk on the right: to draw card to hand.
-    - Graveyard on the left: hold your destroyed monster.(to view battle history)
+    - Graveyard on the left: hold your destroyed monster.(to view battle history).
 - **Card**:
     - Monster card:
-        - Class: Each monster card will belong to a class, and each class will have different pros and cons.
+        - Class: Each monster card will belong to a class, and each class will have different pros and cons..
         - Attack Point
-        - Heath Point: when heath point reduce to 0, it will be move to grave yard
-        - Defense Point: (some monster will has it by default, but some will get by spell/ card or skill), reduce the damage it takes by %, maximum is 50%
+        - Heath Point: when heath point reduce to 0, it will be move to grave yard.
+        - Defense Point: (some monster will has it by default, but some will get by spell/ card or skill), reduce the damage it takes by %, maximum is 50%.
         - Skill:
-            - Passive: skill has no cooldown to active, It will active if meets the condition
-            - Active: Auto active before battle, after activated it will be cooldown by turn before active it again (countdown by turn)
+            - Passive: skill has no cooldown to active, It will active if meets the condition.
+            - Active: Auto active before battle, after activated it will be cooldown by turn before active it again (countdown by turn).
     - Troop card:
-        - Player will earn a troop card each turn
-        - Player cant keep troop in hand & has to place it to the battlefield every turn
-        - Attack Point
-        - Heath Point: when heath point reduce to 0, it will be destroyed
-        - Defense Point (by spell or skill from Monster)
+        - Player will earn a troop card each turn.
+        - Player cant keep troop in hand & has to place it to the battlefield every turn.
+        - Attack Point.
+        - Heath Point: when heath point reduce to 0, it will be destroyed.
+        - Defense Point (by spell or skill from Monster).
     - Spell card:
-        - Pre battle: It will be activated before the start combat
-        - Post battle: It will be activated after end the combat
-	- Phases in game:
+        - Pre battle: It will be activated before the start combat.
+        - Post battle: It will be activated after end the combat.
+- **Phases in game**:
     - Preparation phase:
         - Player will chose Desk before start the battle.
-        - Player can see the class opponent choose the most to counter
-    
-    - In-Game phase:
-        - Each player has 60 seconds to setup before battle
-        - At first each player will have 2 slot to place Spell (After every 5 turns, 1 more tower will be added)
-        - Every 3 turns both players draw 5 spell cards select 3 and discard 2
-            - In first turn:
-                - Drop coin to choose who will go first.
-                - Both players draw 3 monsters & 2 spells
-                - Place Monster in Center & a troop to any side
-            - From second turn to further:
+        - Player can see the class opponent choose the most to counter.
+    - Battle phase:
+    	- Each player has 60 seconds to setup before battle.
+    	- At first each player will have 2 slot to place Spell (After every 5 turns, 1 more tower will be added).
+    	- Every 3 turns both players draw 5 spell cards select 3 and discard 2.
+    	- In first turn:
+        	- Drop coin to choose who will go first.
+        	- Both players draw 3 monsters & 2 spells.
+    	- When placing a new card on the battlefield, it will be faced down. Will be faced up when receiving damaged.
+    	- Place Monster in Center & a troop to any side.
+    	- After both player confirmed, the game will active spell & start combat automatically:
+    		- Both sides attack at the same time.
+		- Which card isn't face enemy card will attack directly to the base HP.
+	- After the combat will end that turn and start a new turn both player will draw a monster card and receive a troop card again.
+	- Repeat again & again until one player is down.
     
 **Under Realm Battle field**
 
