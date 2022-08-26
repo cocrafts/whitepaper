@@ -6,7 +6,7 @@ As GameFi has proved the advantages for both Players and Game Developers/ Builde
 
 - **Trust**: One of the most promising vision GameFi has brought to its players is bringing the absolute transparent, true digital ownership over their digital in-game assets, and different game development team has approach this problem very differently. And we can not deny many projects use this as a hook to scam on their players, making it hard to distinguish between a genuine GameFi project and a scam one. Gradually this build up the prejudice toward the GameFi as a "pump-and-dump"-, ponzi-, scamming sector.
 
-- **Game Quality**: Due to technology limitation and the complexity of combining between game and finance elements, GameFi projects are usually not appreciated by its gameplay, visual, storyline....This matter caused by the over focus on the Finance elements during the products development process. Another fact is traditional game developers find it's complicated to fit their products in the GameFi world when Finance is not a familiar field to them.
+- **Game Quality**: Due to technology limitation and the complexity of combining between game and finance elements, GameFi projects are usually not appreciated by its gameplay, visual, storyline....This matter caused by the over focus on the Finance elements during the products development process. Another fact is in-game economic existed for years before/without NFT, and it's been always-extremely hard to balance. 
   
 - **Fragmented**: GameFi is still early and extremely fragmented. Due to the lack of organizations serve as administrating and standardizing the whole sector. This normally takes years to develop, and required many stakeholders involved to unify the entire ecosystem.
 
